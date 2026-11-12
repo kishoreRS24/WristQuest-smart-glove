@@ -52,8 +52,8 @@ user makes too many wrist movements, prompting a rest.
 
 ## Team
 
-- [Name] - [Role]
-- [Name] - [Role]
+- Kishore R 
+- Jerohn Prince 
 
 ## Disclaimer
 
